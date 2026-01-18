@@ -29,7 +29,7 @@ export default function Home() {
     <div className="carousel-track">
 
       <div className="project-poster">
-        <img src="sand1.png" />
+        <img src="sand1.jpg" />
         <div className="overlay">
           <span className="rank">1</span>
           <h3>Saned</h3>
@@ -39,7 +39,7 @@ export default function Home() {
       </div>
 
       <div className="project-poster">
-        <img src="doctor.png" />
+        <img src="doctor.jpg" />
         <div className="overlay">
           <span className="rank">2</span>
           <h3>Doctor Booking System</h3>
@@ -48,7 +48,7 @@ export default function Home() {
       </div>
 
       <div className="project-poster">
-        <img src="doctor2.png" />
+        <img src="doctor2.jpg" />
         <div className="overlay">
           <span className="rank">2</span>
           <h3>Doctor Booking System</h3>
@@ -59,7 +59,7 @@ export default function Home() {
 
 
       <div className="project-poster">
-        <img src="doctor3.png" />
+        <img src="doctor3.jpg" />
         <div className="overlay">
           <span className="rank">2</span>
           <h3>Doctor Booking System</h3>
@@ -69,7 +69,7 @@ export default function Home() {
 
 
       <div className="project-poster">
-        <img src="park.png" />
+        <img src="park.jpg" />
         <div className="overlay">
           <span className="rank">3</span>
           <h3>ParkRamallah</h3>
